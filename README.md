@@ -30,8 +30,8 @@ Proficient in **Python, Java, Rust, C++, and TypeScript**, with a strong foundat
 
 ### 💼 Professional Experience
 
-#### **Software Engineer / Senior Software Engineer** — **Deloitte (INDIA)**
-*January 2021 – June 2026 (5+ Years)*
+#### **Software Engineer** — **Deloitte — INDIA**
+*January-2021 – June-2026*
 
 * **Backend Microservices & Architecture:** Developed and maintained backend microservices and REST APIs using **Python, Java, Rust, C++, and TypeScript**, applying algorithmic and performance optimizations to improve reliability and execution efficiency.
 * **Codebase Refactoring & Bug Fixing:** Led feature implementation, systematic bug fixing, codebase refactoring, and root-cause debugging across legacy and modern codebases.
