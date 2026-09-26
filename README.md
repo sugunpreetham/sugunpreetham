@@ -28,6 +28,23 @@ Proficient in **Python, Java, Rust, C++, and TypeScript**, with a strong foundat
 
 ---
 
+### 🏆 Key Career Achievements & Quantified Impact
+
+<div align="center">
+
+| Impact Area | Quantified Metric / Achievement | Engineering Execution |
+| :--- | :--- | :--- |
+| **High-Throughput Microservices** | **42% Latency Reduction** | Optimized SQL query plans, Redis caching layers, and database connection pooling under high peak load. |
+| **Zero-Downtime Reliability** | **99.98% Service Uptime** | Engineered fault-tolerant circuit breakers, exponential backoff retries, and asynchronous fallback handlers. |
+| **Hermetic Determinism** | **100% Zero-Flake Test Suites** | Authored comprehensive PyTest and JUnit suites eliminating flaky external dependencies with seeded sandbox runs. |
+| **Data Processing Throughput** | **3.8× Pipeline Acceleration** | Vectorized compute-heavy kernels using C++ and multiprocessing pipelines for structured data transformation. |
+| **Frontier AI RL Environments** | **4-Tier Verifier Framework** | Designed rigorous anti-cheat dynamic test harnesses for AI coding agents across Python, Java, Rust, TypeScript, and C++. |
+| **Academic Pedigree** | **SVNIT Surat (2017–2021)** | B.Tech in CSE from a premier National Institute of Technology; 800+ solved algorithmic and system design challenges. |
+
+</div>
+
+---
+
 ### 💼 Professional Experience
 
 #### **Software Engineer** — **Deloitte — INDIA**
