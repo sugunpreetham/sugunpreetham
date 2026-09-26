@@ -50,6 +50,7 @@
 
 | Repository | Focus & Architecture | Tech Stack |
 | :--- | :--- | :--- |
+| **[`swe-rl-environments`](https://github.com/sugunpreetham/swe-rl-environments)** | Production-grade Reinforcement Learning (RL) environments and deterministic verifiers evaluating frontier AI coding agents across bug fixing, refactoring, and performance benchmarks. Includes golden reference solutions and 4-tier test harnesses. | `Python 3.11` `Java 17` `Rust` `TypeScript` `C++20` `Docker` `PyTest` |
 | **[`llm-eval-benchmark`](https://github.com/sugunpreetham/llm-eval-benchmark)** | Automated Python framework for systematic evaluation, comparison, and verification of LLM responses across reasoning, coding, and factual tasks. Multi-tier scoring rubrics, failure taxonomy tagging, and hallucination heuristics. | `Python` `LLM APIs` `Evaluation Rubrics` `PyTest` `Pandas` |
 | **[`mock-saas-connectors`](https://github.com/sugunpreetham/mock-saas-connectors)** | High-fidelity Python backend microservices emulating **Slack & Linear APIs** for autonomous AI agent benchmarking. Includes pagination cursors, state management, Docker sandboxing, and 100% test coverage. | `Python` `FastAPI` `Pydantic` `Docker` `PyTest` `SQLite` |
 | **[`ai-code-review-ast`](https://github.com/sugunpreetham/ai-code-review-ast)** | AST-based static syntax parsing combined with LLM reasoning for automated bug detection, logic flaw discovery, and patch verification against golden specifications. | `Python` `AST` `FastAPI` `PyTest` `TypeScript` `Docker` |
