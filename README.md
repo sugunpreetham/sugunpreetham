@@ -1,18 +1,18 @@
 # Hi there, I'm Sugun Preetham Devabarkina 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:06b6d4&height=180&section=header&text=Sugun%20Preetham%20Devabarkina&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Senior%20Software%20Engineer%20%7C%20Ex-Deloitte%20(5%2B%20Years)%20%7C%20SVNIT%20Surat&descFontSize=17&descAlignY=62&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:06b6d4&height=180&section=header&text=Sugun%20Preetham%20Devabarkina&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%94%20Data%20%26%20AI%20%2F%20Machine%20Learning%20%7C%20Deloitte%20%7C%20SVNIT%20Surat&descFontSize=16&descAlignY=62&descAlign=50" width="100%"/>
 </div>
 
 <p align="center">
-  <b>Senior Software Engineer</b> with <b>5+ years of experience</b> developing backend systems, microservices, and production software.
+  <b>Software Engineer — Data & AI / Machine Learning</b> with expertise in <b>Python, AI/LLM Evaluation, Data Pipelines, and Computational Workflows</b>.
   <br/>
-  Ex-<b>Deloitte</b> (Jan 2021 – June 2026) • Alumnus of <b>Sardar Vallabhbhai National Institute of Technology (SVNIT Surat)</b>
+  Ex-<b>Deloitte</b> (Data & AI / ML) • <b>M.Tech & B.Tech in Computer Science & Engineering</b> from <b>SVNIT Surat</b>
 </p>
 
 <p align="center">
   <a href="mailto:sugunpreetham07@gmail.com"><img src="https://img.shields.io/badge/Email-sugunpreetham07%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email"/></a>
-  <a href="https://linkedin.com/in/sugun-preetham"><img src="https://img.shields.io/badge/LinkedIn-sugun--preetham-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/sugun-preetham"><img src="https://img.shields.io/badge/LinkedIn-SugunPreetham-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
   <a href="tel:+917989452767"><img src="https://img.shields.io/badge/Phone-%2B91--7989452767-green?style=flat-square" alt="Phone"/></a>
   <a href="https://github.com/sugunpreetham"><img src="https://img.shields.io/badge/GitHub-sugunpreetham-181717?style=flat-square&logo=github" alt="GitHub"/></a>
   <img src="https://img.shields.io/badge/Location-Andhra%20Pradesh%2C%20India-red?style=flat-square" alt="Location"/>
@@ -22,9 +22,9 @@
 
 ### 👨‍💻 Professional Summary
 
-Senior Software Engineer with **5+ years of experience** developing backend systems, microservices, and production software, with hands-on experience in **feature implementation, bug fixing, codebase refactoring, debugging, and performance optimization**.
+M.Tech. graduate in a quantitative technical field with a background in Computer Science and hands-on experience in **Python, data analysis, machine learning workflows, AI evaluation, and computational problem solving**.
 
-Proficient in **Python, Java, Rust, C++, and TypeScript**, with a strong foundation in algorithms, data structures, testing, and software engineering principles. Experienced in building automated evaluation and validation systems, reproducible test workflows, and AI/LLM evaluation pipelines for analyzing software behavior and model outputs.
+Experienced in developing **data-processing pipelines**, evaluating **AI and Large Language Model systems**, analyzing model performance, and building **reproducible computational workflows**. Strong foundation in quantitative analysis and programming, with professional experience delivering data-driven and AI-enabled applications at **Deloitte**.
 
 ---
 
@@ -34,12 +34,12 @@ Proficient in **Python, Java, Rust, C++, and TypeScript**, with a strong foundat
 
 | Impact Area | Quantified Metric / Achievement | Engineering Execution |
 | :--- | :--- | :--- |
-| **High-Throughput Microservices** | **42% Latency Reduction** | Optimized SQL query plans, Redis caching layers, and database connection pooling under high peak load. |
-| **Zero-Downtime Reliability** | **99.98% Service Uptime** | Engineered fault-tolerant circuit breakers, exponential backoff retries, and asynchronous fallback handlers. |
-| **Hermetic Determinism** | **100% Zero-Flake Test Suites** | Authored comprehensive PyTest and JUnit suites eliminating flaky external dependencies with seeded sandbox runs. |
-| **Data Processing Throughput** | **3.8× Pipeline Acceleration** | Vectorized compute-heavy kernels using C++ and multiprocessing pipelines for structured data transformation. |
-| **Frontier AI RL Environments** | **4-Tier Verifier Framework** | Designed rigorous anti-cheat dynamic test harnesses for AI coding agents across Python, Java, Rust, TypeScript, and C++. |
-| **Academic Pedigree** | **SVNIT Surat (2017–2021)** | B.Tech in CSE from a premier National Institute of Technology; 800+ solved algorithmic and system design challenges. |
+| **LLM Evaluation & Benchmarking** | **Multi-Dimensional Rubrics** | Engineered systematic frameworks evaluating correctness, relevance, factuality, reasoning, and instruction-following. |
+| **Data Processing Throughput** | **Scalable Python Workflows** | Built end-to-end analytical pipelines for transforming, validating, and extracting insights from structured & unstructured datasets. |
+| **Workflow Reliability & QA** | **Zero-Defect Automated Testing** | Developed PyTest validation suites, structured error handling, logging, and root-cause failure pattern analysis. |
+| **RAG Retrieval Precision** | **Context Grounding & Attribution** | Implemented vector similarity search, dense embeddings, source citation tracking, and response-quality metrics. |
+| **Code Review & Defect Detection** | **AST + LLM Hybrid Analysis** | Combined AST syntax parsing with LLM reasoning to evaluate code quality, precision, recall, and false-positive rates. |
+| **Academic Foundation** | **M.Tech + B.Tech CSE (SVNIT Surat)** | Dual CS degrees from SVNIT Surat with strong mathematical foundation, quantitative analysis, and systems principles. |
 
 </div>
 
@@ -47,43 +47,46 @@ Proficient in **Python, Java, Rust, C++, and TypeScript**, with a strong foundat
 
 ### 💼 Professional Experience
 
-#### **Software Engineer** — **Deloitte — INDIA**
-*January-2021 – June-2026*
+#### **Software Engineer — Data & AI / Machine Learning**
+**Deloitte — India** | *January 2024 – June 2026*
 
-* **Backend Microservices & Architecture:** Developed and maintained backend microservices and REST APIs using **Python, Java, Rust, C++, and TypeScript**, applying algorithmic and performance optimizations to improve reliability and execution efficiency.
-* **Codebase Refactoring & Bug Fixing:** Led feature implementation, systematic bug fixing, codebase refactoring, and root-cause debugging across legacy and modern codebases.
-* **Performance Profiling & Optimization:** Performed profiling, memory analysis, and backend performance optimization to identify bottlenecks and improve execution efficiency and resource utilization.
-* **Data Processing Pipelines:** Designed and optimized automated data-processing pipelines incorporating extraction, transformation, validation, and analysis workflows for structured and unstructured data.
-* **Resilient API Integrations:** Built production API integrations with authentication, request validation, structured error handling, logging, monitoring, retry, and failure-handling mechanisms.
-* **Database Engineering:** Optimized SQL queries, database schemas, indexes, joins, and data-access layers for efficient and reliable data operations.
-* **Automated Testing & Regressions:** Developed automated unit, integration, and regression test suites using **PyTest** and related testing frameworks to validate functionality and prevent regressions.
-* **Deterministic Validation Workflows:** Built reproducible validation workflows for testing application behavior against expected outcomes across different input conditions and edge cases.
-* **Containerization & CI/CD:** Containerized applications using **Docker** and contributed to CI/CD workflows for automated testing, builds, and deployments.
-* **High-Performance Systems Modules:** Developed performance-sensitive modules using **C++ and Rust** for computationally intensive processing and system integration.
-* **Cloud Infrastructure:** Worked with AWS-based development and deployment workflows supporting scalable application environments.
-* **Generative AI & LLM Integrations:** Integrated Generative AI and LLM capabilities into application workflows using model APIs, structured outputs, and automated evaluation and validation frameworks.
+* **Data-Processing & Analytical Workflows:** Developed Python-based data-processing and analytical workflows for transforming, validating, and analyzing structured and unstructured datasets.
+* **Generative AI & LLM Integration:** Integrated Generative AI and Large Language Models into application workflows using model APIs, prompt engineering, structured outputs, and automated evaluation.
+* **Automated Evaluation Pipelines:** Developed automated evaluation pipelines for comparing model outputs and assessing performance across predefined evaluation criteria.
+* **Data Preprocessing & Feature Engineering:** Applied data preprocessing, validation, transformation, and feature-oriented data preparation techniques to support analytical and AI workflows.
+* **Automated Testing & QA:** Built automated testing and validation pipelines using **PyTest** to evaluate model-integrated applications and identify implementation and performance issues.
+* **Root-Cause Investigation & Error Analysis:** Performed systematic error analysis and root-cause investigation to identify recurring failure patterns and improve computational workflow reliability.
+* **Modular APIs & Architecture:** Developed Python modules and APIs supporting data-intensive analytical and AI applications using modular and reusable architectures.
+* **SQL Query & Database Optimization:** Designed and optimized SQL queries, joins, indexes, and data-access workflows for efficient extraction and processing of analytical datasets.
+* **Reproducible Workflows & CI/CD:** Built reproducible computational workflows using **Python, SQL, Docker, Git, and CI/CD automation**.
+* **Model Quality & Factuality Assessment:** Evaluated AI/LLM outputs using structured criteria and automated analysis to identify differences in correctness, relevance, factuality, and instruction-following performance.
+* **Monitoring & Reliability:** Developed data and AI workflows with validation, logging, monitoring, and error-handling mechanisms to support reliable execution.
+* **Cross-Functional Collaboration:** Collaborated with technical teams to translate analytical and machine-learning-related requirements into scalable computational solutions.
+* **Technical Documentation:** Documented technical methodologies, computational workflows, evaluation approaches, assumptions, and implementation procedures.
 
 ---
 
 ### 🎓 Education
 
 * **Sardar Vallabhbhai National Institute of Technology (SVNIT Surat)** — *Surat, Gujarat*  
-  **Bachelor of Technology (B.Tech) in Computer Science and Engineering** | *2017 – 2021*
+  **Master of Technology (M.Tech) in Computer Science and Engineering** | *2022 – 2024*
+* **Sardar Vallabhbhai National Institute of Technology (SVNIT Surat)** — *Surat, Gujarat*  
+  **Bachelor of Technology (B.Tech) in Computer Science and Engineering** | *2018 – 2022*
 * **Tirumala Junior College** — *Bhimavaram, Andhra Pradesh*  
-  **Board of Intermediate Education** | *2015 – 2017*
+  **Board of Intermediate Education** | *2016 – 2018*
 
 ---
 
-### 🌟 Featured Repositories
+### 🌟 Featured Repositories & Projects
 
-| Repository | Focus & Architecture | Tech Stack |
+| Repository / Project | Focus & Architecture | Tech Stack |
 | :--- | :--- | :--- |
-| **[`swe-rl-environments`](https://github.com/sugunpreetham/swe-rl-environments)** | Production-grade Reinforcement Learning (RL) environments and deterministic verifiers evaluating frontier AI coding agents across bug fixing, refactoring, and performance benchmarks. Includes golden reference solutions and 4-tier test harnesses. | `Python 3.11` `Java 17` `Rust` `TypeScript` `C++20` `Docker` `PyTest` |
-| **[`core-cs-algorithms`](https://github.com/sugunpreetham/core-cs-algorithms)** | Core computer science algorithms, operating system primitives, memory managers, and distributed patterns developed from **SVNIT Surat (2017–2021)** through **Deloitte (2021–2026)**. | `C++` `Java` `Python` `Algorithms` `OS` `Concurrency` |
-| **[`ai-code-review-ast`](https://github.com/sugunpreetham/ai-code-review-ast)** | AST-based static syntax parsing combined with LLM reasoning for automated bug detection, logic flaw discovery, and patch verification against golden specifications. | `Python` `AST` `FastAPI` `PyTest` `TypeScript` `Docker` |
-| **[`llm-eval-benchmark`](https://github.com/sugunpreetham/llm-eval-benchmark)** | Automated Python framework for systematic evaluation, comparison, and verification of LLM responses across reasoning, coding, and factual tasks. Multi-tier scoring rubrics, failure taxonomy tagging, and hallucination heuristics. | `Python` `LLM APIs` `Evaluation Rubrics` `PyTest` `Pandas` |
-| **[`rag-knowledge-assistant`](https://github.com/sugunpreetham/rag-knowledge-assistant)** | Modular Retrieval-Augmented Generation system with document chunking, dense vector similarity search, source citation tracking, and faithfulness evaluation metrics. | `Python` `FastAPI` `Vector Search` `Embeddings` `PyTest` |
-| **[`mock-saas-connectors`](https://github.com/sugunpreetham/mock-saas-connectors)** | High-fidelity Python backend microservices emulating **Slack & Linear APIs** for autonomous AI agent benchmarking. Includes pagination cursors, state management, Docker sandboxing, and 100% test coverage. | `Python` `FastAPI` `Pydantic` `Docker` `PyTest` `SQLite` |
+| **[`llm-eval-benchmark`](https://github.com/sugunpreetham/llm-eval-benchmark)** | **LLM Evaluation & Benchmarking Platform:** Python-based framework for systematic evaluation and comparison of LLM outputs. Structured evaluation datasets and scoring criteria covering correctness, relevance, factuality, reasoning, and instruction-following with automated statistical reports. | `Python` `NumPy` `Pandas` `SQL` `LLM APIs` `NLP` `PyTest` |
+| **[`rag-knowledge-assistant`](https://github.com/sugunpreetham/rag-knowledge-assistant)** | **Retrieval-Augmented Generation (RAG) AI Assistant:** Domain-specific document ingestion, text chunking, embedding-based vector similarity search, grounded context generation, source citation attribution, and automated retrieval precision/quality evaluation. | `Python` `LLMs` `NLP` `Embeddings` `Vector Search` `RAG` `FastAPI` |
+| **[`ai-code-review-ast`](https://github.com/sugunpreetham/ai-code-review-ast)** | **AI-Powered Code Review & Bug Detection System:** Automated code-analysis system combining AST-based static syntax analysis with LLM reasoning. Curated benchmark dataset of buggy/fixed pairs with automated evaluation measuring precision, recall, and error categorization. | `Python` `LLMs` `AST` `PyTest` `FastAPI` `Git` |
+| **[`swe-rl-environments`](https://github.com/sugunpreetham/swe-rl-environments)** | **Frontier AI Coding Agent RL Environments:** Benchmark suite and RL training environment evaluating frontier AI coding agents on complex real-world software engineering tasks with 4-tier deterministic test harnesses and anti-cheat verification. | `Python 3.11` `Java 17` `Rust` `TypeScript` `C++20` `Docker` `PyTest` |
+| **[`core-cs-algorithms`](https://github.com/sugunpreetham/core-cs-algorithms)** | **Core CS Algorithms & Systems Architecture:** Operating system primitives, memory managers, cache allocators, and distributed systems patterns developed across SVNIT Surat and professional industry engineering. | `C++` `Java` `Python` `Algorithms` `OS` `Concurrency` |
+| **[`mock-saas-connectors`](https://github.com/sugunpreetham/mock-saas-connectors)** | **Hermetic Sandboxed SaaS Tool Emulation:** High-fidelity Python backend microservices emulating **Slack & Linear APIs** for autonomous AI agent benchmarking with state management, pagination cursors, and Docker sandboxing. | `Python` `FastAPI` `Pydantic` `Docker` `PyTest` `SQLite` |
 
 ---
 
@@ -91,19 +94,58 @@ Proficient in **Python, Java, Rust, C++, and TypeScript**, with a strong foundat
 
 <div align="center">
 
-| Domain | Technologies & Methodologies |
+| Domain | Technologies & Methodologies (from Verified Background) |
 | :--- | :--- |
-| **Programming Languages** | `Python 3` `Java` `Rust` `C++` `TypeScript` `JavaScript` `SQL` `Bash` |
-| **Algorithms & CS Principles** | `Data Structures` `Algorithms` `Complexity Analysis` `Problem Solving` `Memory Management` `Profiling` |
-| **Software Engineering** | `Feature Implementation` `Bug Fixing` `Debugging` `Root-Cause Analysis` `Code Review` `Codebase Refactoring` `Legacy Modernization` `Performance Optimization` |
-| **Backend Engineering** | `Microservices` `REST APIs` `FastAPI` `Node.js` `Distributed Systems` `Asynchronous Processing` `Request Validation` `Error Handling` |
-| **Testing & Evaluation** | `PyTest` `Unit Testing` `Integration Testing` `Regression Testing` `Automated Validation` `Test Automation` `Test Design` `AST Analysis` `Benchmarking` |
-| **Databases & Caching** | `PostgreSQL` `MySQL` `MongoDB` `Redis` `Database Schema Design` `Query Optimization` `Indexing` |
-| **AI / LLM & Evals** | `Generative AI` `LLM APIs` `RAG` `Vector Search` `Embeddings` `Prompt Engineering` `LLM Evaluation` `Automated Evaluation` |
-| **Cloud & DevOps** | `AWS` `Docker` `Kubernetes` `CI/CD Pipelines` `Linux` |
-| **Developer Tools** | `Git` `GitHub` `Version Control` `Technical Documentation` `API Documentation` |
+| **Machine Learning & AI** | `Machine Learning` `Generative AI` `Large Language Models (LLMs)` `NLP` `RAG` `Model Evaluation` `AI Benchmarking` `Automated Evaluation` `Error Analysis` `Prompt Engineering` |
+| **Data Science & Statistics** | `Data Analysis` `Statistical Analysis` `Data Preprocessing` `Data Validation` `Feature Engineering` `Model Evaluation` `Performance Analysis` `Quantitative Analysis` |
+| **Programming & Scientific Computing** | `Python` `NumPy` `Pandas` `SQL` `Java` `C++` `Bash` |
+| **Data & Databases** | `PostgreSQL` `MySQL` `MongoDB` `Redis` `SQL Data Modeling` `Query Optimization` `Indexing` |
+| **ML/AI Engineering** | `LLM APIs` `Embeddings` `Vector Search` `FastAPI` `REST APIs` `Automated Testing` `PyTest` |
+| **Software & Infrastructure** | `Git` `GitHub` `Docker` `Kubernetes` `CI/CD Pipelines` `Linux` `GitHub Actions` |
+| **Evaluation & Quality Assurance** | `Benchmark Design` `Evaluation Metrics` `Precision` `Recall` `Regression Testing` `Error Analysis` `Root-Cause Analysis` `Automated Testing` |
 
 </div>
+
+---
+
+### 📊 End-to-End Computational & AI Evaluation Architecture
+
+```
+                  ┌──────────────────────────────────────────────┐
+                  │      Structured & Unstructured Datasets      │
+                  │        (Documents, Codebases, Prompts)       │
+                  └──────────────────────┬───────────────────────┘
+                                         │
+                                         ▼
+                  ┌──────────────────────────────────────────────┐
+                  │    Python Data Preprocessing & Validation    │
+                  │   (Pandas, NumPy, Cleaning, Chunking, AST)   │
+                  └──────────────────────┬───────────────────────┘
+                                         │
+                    ┌────────────────────┴────────────────────┐
+                    ▼                                         ▼
+┌───────────────────────────────────────┐ ┌───────────────────────────────────────┐
+│     Vector Retrieval & Embeddings     │ │    Generative AI & LLM Generation     │
+│   (Similarity Search, Context Prep)   │ │  (Prompt Engineering, Structured APIs)│
+└───────────────────┬───────────────────┘ └───────────────────┬───────────────────┘
+                    │                                         │
+                    └────────────────────┬────────────────────┘
+                                         │
+                                         ▼
+                  ┌──────────────────────────────────────────────┐
+                  │   Automated Evaluation & Testing Pipeline    │
+                  │      ├── Multi-Tier Scoring (Corr, Fact, Reas)│
+                  │      ├── PyTest Deterministic Verification   │
+                  │      ├── Citation Attribution & Grounding    │
+                  │      └── Systematic Error & Hallucination QA │
+                  └──────────────────────┬───────────────────────┘
+                                         │
+                                         ▼
+                  ┌──────────────────────────────────────────────┐
+                  │    Statistical Reports & Analytical Insights │
+                  │  (Failure Taxonomies, Precision/Recall, Logs)│
+                  └──────────────────────────────────────────────┘
+```
 
 ---
 
@@ -112,4 +154,4 @@ Proficient in **Python, Java, Rust, C++, and TypeScript**, with a strong foundat
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sugunpreetham&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
 </div>
 
-<p align="center"><i>Constantly engineering scalable systems and building robust evaluation environments for the frontier of software and AI.</i></p>
+<p align="center"><i>Building reproducible data pipelines, robust evaluation frameworks, and reliable systems for the frontier of software and AI.</i></p>
