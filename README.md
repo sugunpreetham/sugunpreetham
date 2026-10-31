@@ -151,8 +151,9 @@ Experienced in developing **data-processing pipelines**, evaluating **AI and Lar
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sugunpreetham&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sugunpreetham&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sugunpreetham&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=sugunpreetham&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sugunpreetham&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
 </div>
 
 <p align="center"><i>Building reproducible data pipelines, robust evaluation frameworks, and reliable systems for the frontier of software and AI.</i></p>
