@@ -1,7 +1,7 @@
 # Hi there, I'm Sugun Preetham Devabarkina 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:06b6d4&height=180&section=header&text=Sugun%20Preetham%20Devabarkina&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%94%20Data%20%26%20AI%20%2F%20Machine%20Learning%20%7C%20Deloitte%20%7C%20SVNIT%20Surat&descFontSize=16&descAlignY=62&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:06b6d4&height=180&section=header&text=Sugun%20Preetham%20Devabarkina&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Data%20and%20AI%20%2F%20Machine%20Learning%20%7C%20Deloitte%20%7C%20SVNIT%20Surat&descFontSize=16&descAlignY=62&descAlign=50" width="100%"/>
 </div>
 
 <p align="center">
@@ -81,6 +81,7 @@ Experienced in developing **data-processing pipelines**, evaluating **AI and Lar
 
 | Repository / Project | Focus & Architecture | Tech Stack |
 | :--- | :--- | :--- |
+| **[`issueboard-milestone_1`](https://github.com/sugunpreetham/issueboard-milestone_1)** | **Enterprise Issue & Workflow Management Dashboard:** Zero-dependency, accessible (WCAG 2.1 AA) project tracker featuring offline mutation queuing with exponential backoff, SHA-256 cryptographic audit chaining, an AST query parser, and 134 verified tests. | `React 18` `TypeScript 5.6` `Vite` `Vitest` `Playwright` `WCAG AA` |
 | **[`llm-eval-benchmark`](https://github.com/sugunpreetham/llm-eval-benchmark)** | **LLM Evaluation & Benchmarking Platform:** Python-based framework for systematic evaluation and comparison of LLM outputs. Structured evaluation datasets and scoring criteria covering correctness, relevance, factuality, reasoning, and instruction-following with automated statistical reports. | `Python` `NumPy` `Pandas` `SQL` `LLM APIs` `NLP` `PyTest` |
 | **[`rag-knowledge-assistant`](https://github.com/sugunpreetham/rag-knowledge-assistant)** | **Retrieval-Augmented Generation (RAG) AI Assistant:** Domain-specific document ingestion, text chunking, embedding-based vector similarity search, grounded context generation, source citation attribution, and automated retrieval precision/quality evaluation. | `Python` `LLMs` `NLP` `Embeddings` `Vector Search` `RAG` `FastAPI` |
 | **[`ai-code-review-ast`](https://github.com/sugunpreetham/ai-code-review-ast)** | **AI-Powered Code Review & Bug Detection System:** Automated code-analysis system combining AST-based static syntax analysis with LLM reasoning. Curated benchmark dataset of buggy/fixed pairs with automated evaluation measuring precision, recall, and error categorization. | `Python` `LLMs` `AST` `PyTest` `FastAPI` `Git` |
